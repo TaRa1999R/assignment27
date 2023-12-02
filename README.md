@@ -7,6 +7,7 @@
 ![Alt text](1_output.jpg)
 
 27-2-INPUT
+![Alt text](2_input.jpg)
 
 27-2-OUTPUT
 
