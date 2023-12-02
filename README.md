@@ -1,8 +1,10 @@
 ** ASSIGNMENT 27 PICTURS **
 
 27-1-INPUT
+![Alt text](1_input.jpg)
 
 27-1-OUTPUT
+![Alt text](1_output.jpg)
 
 27-2-INPUT
 
