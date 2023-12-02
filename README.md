@@ -8,13 +8,15 @@
 
 ![Alt text](1_output.jpg)
 
-27-2-INPUT\n
+27-2-INPUT
+
 ![Alt text](2_input.jpg)
 
 27-2-OUTPUT is a video ( There is a picture of this video )
 ![Alt text](2_output.png)
 
 27-3-INPUT
+![Alt text](3_input.jpg)
 
 27-3-OUTPUT
 
