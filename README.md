@@ -10,6 +10,7 @@
 ![Alt text](2_input.jpg)
 
 27-2-OUTPUT
+<video src="2_outout.mp4" controls title="Title"></video>
 
 27-3-INPUT
 
