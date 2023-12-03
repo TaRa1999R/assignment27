@@ -19,6 +19,6 @@
 ![Alt text](3_input.jpg)
 
 27-3-OUTPUT is a video ( There is a picture of this video )
-
+![Alt text](3_output.png)
 
 27-4-???
