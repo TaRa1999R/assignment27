@@ -15,10 +15,10 @@ while True :
     
     for row in range (205 , 265) :
         for col in range (290 , 350) :
-            if blur_fram[row , col] >=250 :
+            if blur_fram[row , col] >= 200 :
                 cv2.putText (blur_fram , "WHITE" , (180 , 150) , cv2.FONT_HERSHEY_COMPLEX , 3 , (0 , 0 , 0))
 
-            elif blur_fram[row , col] <= 10 :
+            elif blur_fram[row , col] <= 50 :
                 cv2.putText (blur_fram , "BLACK" , (180 , 150) , cv2.FONT_HERSHEY_COMPLEX , 3 , (255 , 255 , 255))
 
             else :

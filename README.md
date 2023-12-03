@@ -23,5 +23,12 @@
 
 27-4-OUTPUT is a color detector :
 A. Detect BLACK ⚫
+![Alt text](4_output_black.png)
+
+
 B. Detect WHITE ⚪
+![Alt text](4_output_white.png)
+
+
 C. Detect GRAY  🔘
+![Alt text](4_output_gray.png)
