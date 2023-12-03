@@ -21,7 +21,7 @@
 27-3-OUTPUT is a video ( There is a picture of this video )
 ![Alt text](3_output.png)
 
-27-4-OUTPUT is a color detector 
+27-4-OUTPUT is a color detector :
 A. Detect BLACK ⚫
 B. Detect WHITE ⚪
 C. Detect GRAY  🔘
