@@ -2,7 +2,7 @@
 import cv2
 
 cap = cv2.VideoCapture (0)
-writer = cv2.VideoWriter ("4_output.mp4" , cv2.VideoWriter_fourcc(*'mpv4') , 10 , (480 , 640))
+writer = cv2.VideoWriter ("4_output.mp4" , cv2.VideoWriter_fourcc(*'mpv4') , 10 , (640 , 480))
 
 while True :
     _ , fram = cap.read ()
@@ -30,4 +30,6 @@ while True :
     if cv2.waitKey (100) & 0xFF == ord ('q') :
         break
 
+cap.release ()
 writer.release ()
+# cv2.destroyAllWindows()  
